@@ -1,4 +1,4 @@
-// Filters Reducer
+import moment from 'moment';
 
 const filtersReducerDefaultState = {
     text: '',
